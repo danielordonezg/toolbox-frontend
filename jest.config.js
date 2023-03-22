@@ -19,7 +19,6 @@ module.exports = {
     "!<rootDir>/src/redux",
     "!<rootDir>/src/reportWebVitals",
   ],
-  cacheDirectory: ".jest/cache",
   moduleNameMapper: {
     "\\.(css|less)$": "identity-obj-proxy",
   },
